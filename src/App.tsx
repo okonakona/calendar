@@ -7,6 +7,8 @@ import Calendar2 from './pages/calendar2'
 import Calendar3 from './pages/calendar3'
 import Calendar4 from './pages/calendar4'
 import Calendar5 from './pages/calendar5'
+import Calendar6 from './pages/calendar6'
+import Calendar7 from './pages/calendar7'
 
 
 function App() {
@@ -14,7 +16,7 @@ function App() {
 
   return (
     <>
-      <Calendar5 />
+      <Calendar7 />
     </>
   )
 }
